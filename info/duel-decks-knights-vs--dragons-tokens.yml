@@ -1,0 +1,16 @@
+---
+object: set
+id: f5a051a3-ead3-469a-83e4-c6669f880085
+code: tddg
+name: 'Duel Decks: Knights vs. Dragons Tokens'
+uri: https://api.scryfall.com/sets/f5a051a3-ead3-469a-83e4-c6669f880085
+scryfall_uri: https://scryfall.com/sets/tddg
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atddg&unique=prints
+released_at: '2011-04-01'
+set_type: token
+card_count: 1
+parent_set_code: ddg
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddg.svg?1694404800
